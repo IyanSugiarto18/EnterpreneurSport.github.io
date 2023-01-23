@@ -1036,6 +1036,12 @@ motivation
   }
 }
 
+@media screen and (min-width: 1060px) {
+  .swipp {
+    display: none!important;
+  }
+}
+
 
 /* new */
 .fa-instagram { 
