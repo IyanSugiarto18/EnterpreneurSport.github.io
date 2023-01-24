@@ -780,6 +780,10 @@ welcome
     margin-top: 5%;
     transform: none !important;
   }
+
+  .header-text p {
+    text-align: center;
+  }
 }
 @media (max-width: 810px) {
   .welcome-area {
