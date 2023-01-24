@@ -725,7 +725,7 @@ welcome
   transform: perspective(1px) translateY(-30%) !important;
 }
 
-.welcome-area .header-text h1 {
+.welcome-area .header-text h3 {
   font-weight: 900;
   font-size: 52px;
   line-height: 80px;
@@ -795,6 +795,9 @@ welcome
   .container-fluid .col-md-12 {
     margin-right: 0px;
     padding-right: 0px;
+  }
+  .header-text p {
+    text-align: center;
   }
 }
 
