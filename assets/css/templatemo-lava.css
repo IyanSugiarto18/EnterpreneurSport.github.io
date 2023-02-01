@@ -1390,3 +1390,17 @@ preloader
   width: 100%;
 }
 
+.arief{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.ariefText{
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
